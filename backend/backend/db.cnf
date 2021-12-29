@@ -1,0 +1,6 @@
+# my.cnf
+[client]
+database = 'db_synd'
+user = 'db_synd'
+password = 'db_synd'
+default-character-set = 'utf8'
