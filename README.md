@@ -1,2 +1,4 @@
 # copro
-syndicat des coproprietaires
+__Syndicat des coproprietaires
+
+see for install details
